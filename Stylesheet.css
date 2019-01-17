@@ -2,3 +2,11 @@
     font-family: Orbitron;
     box-sizing: border-box;
 }
+nav{
+    text-align: center;
+    font-size: 26px;
+    margin: auto;
+    background-color: yellow;
+    float: left;
+    width:65%;
+}
