@@ -10,3 +10,8 @@ nav{
     float: left;
     width:65%;
 }
+header{
+     width:100%;
+     float:left;
+    background-color: yellow;
+ }
